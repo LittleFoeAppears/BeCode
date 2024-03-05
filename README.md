@@ -68,6 +68,8 @@ Start 5/03 end 20/09
 
 All **Bank Holidays** will be respected as well.
 
+[REGISTER FOR YOUR TECH-TALK HERE!](https://docs.google.com/spreadsheets/d/1SEh5Xoi7b8PANw7lF6FONeadge3agy1PoBUhOOeuKrc/edit#gid=0)
+
 ## Requirements
 
 List of minimal requirements for the trainees:
