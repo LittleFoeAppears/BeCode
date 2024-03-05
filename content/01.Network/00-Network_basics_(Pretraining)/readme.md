@@ -14,7 +14,7 @@ If you haven't already done so, register on try hack me and start the Pre Securi
 
 ![](https://mybecode-files-production.s3-eu-west-1.amazonaws.com/3f0c6ba8-53f1-4968-af3f-b245ab7d3f8a-capture-d'ecran-2022-02-18-162815.png)
 
-**Link : https://tryhackme.com/paths**
+**Link :https://tryhackme.com/path/outline/presecurity
 
 
 ## Step 2 - Introduction to OSI model. ( 9 days )
