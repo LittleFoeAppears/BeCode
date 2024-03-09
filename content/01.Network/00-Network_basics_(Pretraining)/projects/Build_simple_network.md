@@ -3,7 +3,7 @@
 - Repository: `building_a_simple_network`
 - Type of Challenge: `Consolidation`
 - Duration: `1 day`
-- Deadline: `dd/mm/yy H:i AM/PM`
+- Deadline: `16/03/2024`
 - Team challenge : `solo`
 
 ## The Mission
