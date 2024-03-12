@@ -46,7 +46,7 @@ Through these chapters, we will learn about each of these layers and discover th
 6. [Network access](./06-Network_Layer/)
 7. [Ip addressing and subnetting](./07-Ip_addressing_and_subnetting/)
 8. [Transport layer](./08-Transport_Layer/)
-9. [Apoplication layer](./09-Application_layer/)
+9. [Application layer](./09-Application_layer/)
 
 ## Ready to become the king of network?
 
