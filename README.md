@@ -11,7 +11,7 @@ Note: The ultimate goal is the mindset, not specific tools. For that reason the 
 
 | Content        | Description                                                                                                  |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Tech Talks]() | Small daily talks organized by the learners or coaches on theoretical concepts, interesting related tech, cool findings, etc…                     |
+| [Tech Talks](https://docs.google.com/spreadsheets/d/1SEh5Xoi7b8PANw7lF6FONeadge3agy1PoBUhOOeuKrc/edit#gid=0) | Small daily talks organized by the learners or coaches on theoretical concepts, interesting related tech, cool findings, etc…                     |
 | [Workshops]()  | Interactive session given by the trainees on subject they want to teach theircolleagues.                                                         |                                            |
 ## 🌊 How to thrive at BeCode?
 
@@ -68,7 +68,6 @@ Start 5/03 end 20/09
 
 All **Bank Holidays** will be respected as well.
 
-[REGISTER FOR YOUR TECH-TALK HERE!](https://docs.google.com/spreadsheets/d/1SEh5Xoi7b8PANw7lF6FONeadge3agy1PoBUhOOeuKrc/edit#gid=0)
 
 ## Requirements
 
