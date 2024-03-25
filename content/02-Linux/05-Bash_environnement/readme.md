@@ -1,8 +1,8 @@
 # Bash environnement
 
-> Connect to the virtual machine 10.12.181.X with the following credentials:
+> Connect to the virtual machine 10.12.1.XX with the following credentials:
 > 
-> * **ip** : 10.12.181.X
+> * **ip** : 10.12.1.XX
 > * **user** : student
 > * **password** : student
 
