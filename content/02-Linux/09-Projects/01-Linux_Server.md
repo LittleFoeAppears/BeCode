@@ -1,3 +1,11 @@
+# Project: Linux server
+
+- Repository: `linux_client_server`
+- Type of Challenge: `Consolidation`
+- Duration: `3 day`
+- Deadline: `04/04/2024`
+- Participants: : `solo`
+
 # Linux network services
 
 ## Project context 
@@ -35,13 +43,13 @@ The teams must give a sense of confidence to the audience when presenting their 
 the documentation must be clear, structured and must provide all elements of configuration.
 
 ## Evaluation methods
-- Quality of the documentation and the live demo (5),
-- All required items are implemented are working (5),
-- Optional items are implemented and working (bonus 5),
-- The team demonstrates good organisation and planning (5),
-- The team explains and justifies the various choices they made (5),
-- Tests were performed to ensure the configuration is working (5),
-- The team demonstrate a solid knowledge of the Linux environment when answering questions (5)
+- Quality of the documentation and the live demo 
+- All required items are implemented are working
+- Optional items are implemented and working 
+- The team demonstrates good organisation and planning
+- The team explains and justifies the various choices they made
+- Tests were performed to ensure the configuration is working 
+- The team demonstrate a solid knowledge of the Linux environment when answering questions 
 
 ## Deliverables
 a documentation in word format named LinuxBrief_firstname1_firstname2.docx,
