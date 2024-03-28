@@ -13,8 +13,8 @@ Exercises to practice your Linux knowledge.
 
 ## Summary 
 
-- [01-Linux_Server](./01-Linux_Server)
-- [02-Monitoring_101](./02-Monitoring_101)
+- [01-Linux_Server](./01-Linux_Server.md)
+- [02-Monitoring_101](./02-Monitoring_101.md)
 - [03-El_Doctor](./03-El_Doctor.md)
 
 ## Must to have - Deliverables:
