@@ -19,7 +19,7 @@ This challenge guides you through deploying a secure Windows Server 2022 environ
 * Implement Sysmon for system activity monitoring.
 * Analyze Sysmon data and present its security value to the client.
 
-You can follow this video to discover [windows server](https://openclassrooms.com/en/courses/7710301-manage-windows-server).
+You can follow [this](https://openclassrooms.com/en/courses/7710301-manage-windows-server) tutorial to discover windows server.
 
 ## Environment:
 
