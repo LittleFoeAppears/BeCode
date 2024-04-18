@@ -8,7 +8,7 @@ Output: **file**
 
 ## The mission
 
-**[Iron scripter](https://ironscripter.us/)** doesn't seem to be up online all the time, if not use the time machine to get there anyway. Find the March 10, 2022 challenge entitled **"An Up and Down PowerShell Challenge"** and try to write us a nice function. It'll make the Chairman happy.
+Go to **[Iron scripter](https://ironscripter.us/)**  and find the March 10, 2022 challenge entitled **"An Up and Down PowerShell Challenge"**, try to write us a nice function. It'll make the Chairman happy.
 <br>
 <br>
 
