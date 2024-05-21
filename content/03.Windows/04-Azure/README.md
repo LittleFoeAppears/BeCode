@@ -150,7 +150,7 @@ Azure Cloud is Microsoft's public cloud computing platform offering a wide range
 
 - Take this [first course](https://github.com/Microsoft/Security-101).
 
-- Take this [second course](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals).
+- Take this [second course](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification).
 
 - Watch this [video](https://www.youtube.com/watch?v=LLKza5oULAA) and read the attached documents.
 
