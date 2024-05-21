@@ -27,7 +27,7 @@ Azure Cloud is Microsoft's public cloud computing platform offering a wide range
 
 - Login to your [azure](https://portal.azure.com/) account and **change the password** 💀
 
-```json
+```
   + user_credentials = [
       + {
           + email    = "Mohammad@becodeedu.onmicrosoft.com"
@@ -159,6 +159,7 @@ Azure Cloud is Microsoft's public cloud computing platform offering a wide range
 
 - Explore the cloud interface. 
 - Do as many mock exams as possible.
+- Request an exam voucher.
 
 Initially, you have a limited contributor role, which will evolve as the course progresses.
 
