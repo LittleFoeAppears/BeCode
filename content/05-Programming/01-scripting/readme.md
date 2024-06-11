@@ -12,6 +12,3 @@
 
 - [Php](./03-Php/)
 
-## Powershell
-
-- [Powershell](./04-powershell/)
