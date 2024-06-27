@@ -130,8 +130,6 @@ The free license does not expire, however, after the trial version, you may be l
 
 - [Splunk free courses](https://www.splunk.com/en_us/training/course-catalog.html?sort=Newest&filters=filterGroup1FreeCourses)
 
-- [Splunk Education](https://education.splunk.com/catalog?category=splunk-courses)
-
 - [Essential guide](https://www.splunk.com/en_us/pdfs/gated/ebooks/the-essential-guide-to-data.pdf)
 
 - [Doc](https://docs.splunk.com/Documentation/Splunk)
@@ -153,7 +151,7 @@ This course was just an introduction of course and you will have to work on the 
 You will also find a link to the pasture folder, which will contain as mentioned in the overview, a set of additional or specific topics, as well as links to work on other tools related to the needs of your internship and/or with the market standards
 
 * Need for challenges :
-    - [Let's Defende](https://www.letsdefend.io/)
+    - [Let's Defend](https://www.letsdefend.io/)
     - [Blue Team Labs](https://blueteamlabs.online/home/challenges)
     - [Cyber defenders](https://cyberdefenders.org/blueteam-ctf-challenges/)
 
@@ -162,7 +160,7 @@ You will also find a link to the pasture folder, which will contain as mentioned
 
 ## Resources
 
-- [Attack modeling](https://medium.com/cyberthreatintel/mitre-att-ck-le-nouveau-standard-de-mod%C3%A9lisation-des-attaques-informatiques-9ad37aaec185)
+- [Threath modeling](https://owasp.org/www-community/Threat_Modeling)
 
 - [Identify web attack](https://app.cybrary.it/browse/course/identifying-web-attacks-through-logs)
 
