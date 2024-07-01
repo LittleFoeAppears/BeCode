@@ -10,4 +10,4 @@
 
 ## KQL
 
-- [KQL](./KQL/readme.md)
+- [KQL](./03-KQL/readme.md)

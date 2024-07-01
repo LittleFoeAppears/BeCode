@@ -60,14 +60,14 @@ In the next post (Part 4) I’ll talk through another, yet just as powerful, way
 
 And, then I’ll come back for Part 5 and show how to tie together both search methods to create the full operation of hunting to Analytics Rule. But don’t worry, that’s not the end. I have no clue how many parts this series be. A lot of it depends on you.
 
-Write your first query with Kusto Query Language (Learn module)
+**Write your first query with Kusto Query Language (Learn module)**
 https://docs.microsoft.com/en-us/learn/modules/write-first-query-kusto-query-language/
 
-KQL Playground – only need a valid Microsoft account to access.
+**KQL Playground – only need a valid Microsoft account to access.**
 https://aka.ms/LADemo
 
 
-Play to earn a certificate => [KQL Agent CTF](https://detective.kusto.io/)
+ [KQL Agent CTF](https://detective.kusto.io/) **Play to earn a MS certificate.** 
 
 
 [MustLearnKQL](./MustLearnKQL_Book.pdf ) 
