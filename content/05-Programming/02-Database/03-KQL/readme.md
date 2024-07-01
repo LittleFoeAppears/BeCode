@@ -13,7 +13,7 @@
 
 ### A Common KQL Workflow
 
-![[kql.png]]
+![](/assets/kql.png/)
 
 Let’s break this query down by the steps. 
 
@@ -31,7 +31,7 @@ Let’s break this query down by the steps.
 
 7. Our search query output is exactly that:                
 
-![[2024-01-26 15_41_59-Window.png]]
+![](/assets/kql_query_windows.png)
 
 
 See that? The Account column is in alphabetical order ascending and the SuccessfulLogons column shows how many times each Account successfully logged in. 
@@ -66,8 +66,13 @@ https://docs.microsoft.com/en-us/learn/modules/write-first-query-kusto-query-lan
 KQL Playground – only need a valid Microsoft account to access.
 https://aka.ms/LADemo
 
+
+Play to earn a certificate => [KQL Agent CTF](https://detective.kusto.io/)
+
+
 [MustLearnKQL](./MustLearnKQL_Book.pdf ) 
 [KQL](https://www.youtube.com/playlist?list=PLD7rlIrZEkLgiRbIs_5JXIxzu-5tpoDbd) 
+
 
 Resources : 
 
